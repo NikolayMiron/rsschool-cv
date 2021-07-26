@@ -1,1 +1,1 @@
-# rsschool-cv
+# https://NikolayMiron.github.io/rsschool-cv/
